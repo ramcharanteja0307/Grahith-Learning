@@ -23,3 +23,11 @@ When creating a class, the admin can also specify the number of sessions require
 Teacher Dashboard
 In the Teacher Dashboard, teachers can access the following features:
 Class Schedule: Teachers can view the classes they are assigned to and the total number of classes they need to teach.
+Attendance: Teachers have the ability to mark student attendance (Present/Absent) for each class.
+Marks: Teachers can enter and view the marks received by students in the respective subjects.
+Complaint System: If needed, teachers can directly file complaints to the admin regarding any issues or concerns.
+Student Dashboard
+In the Student Dashboard, students have access to the following:
+Class Attendance: Students can view the number of classes they need to attend and check their attendance record, including which days they were present or absent.
+Marks: Students can view their grades for each subject.
+Performance Tracking: The dashboard provides an overview of their academic performance, including attendance and subject marks.
